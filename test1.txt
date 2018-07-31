@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F07E-081E
+
+ Directory of C:\Users\IZ\Desktop\MyGitProject
+
+07/31/2018  01:10 AM    <DIR>          .
+07/31/2018  01:10 AM    <DIR>          ..
+07/31/2018  01:10 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  23,179,284,480 bytes free
